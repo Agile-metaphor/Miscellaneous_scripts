@@ -1,0 +1,1 @@
+conda update --all & conda clean -p
